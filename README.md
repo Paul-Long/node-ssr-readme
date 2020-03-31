@@ -14,3 +14,10 @@ nodejs ssr readme
     - 渲染页面
     - 提前加载用户信息，权限信息
   
+ ## 资源
+  
+  - redis： 用户session
+  - mysql： 
+    - 目录配置
+    - 版本管理
+    - 发布设置
